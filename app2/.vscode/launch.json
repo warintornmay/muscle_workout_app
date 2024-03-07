@@ -1,0 +1,48 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "workout3",
+            "cwd": "workout3",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "workout3 (profile mode)",
+            "cwd": "workout3",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "workout3 (release mode)",
+            "cwd": "workout3",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "01-mlkit-pose-plugin-jumping-jack",
+            "cwd": "pose-warmup\\01-mlkit-pose-plugin-jumping-jack",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "01-mlkit-pose-plugin-jumping-jack (profile mode)",
+            "cwd": "pose-warmup\\01-mlkit-pose-plugin-jumping-jack",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "01-mlkit-pose-plugin-jumping-jack (release mode)",
+            "cwd": "pose-warmup\\01-mlkit-pose-plugin-jumping-jack",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        }
+    ]
+}
